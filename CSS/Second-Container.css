@@ -1,0 +1,36 @@
+.Second-Container-Headline {
+    margin: 2% auto;
+}
+
+.Second-Slide-Card-Width {
+    max-width: 500px;
+}
+
+.Second-Container-Card {
+    border-radius: 10px;
+    background: white
+}
+
+.Second-Container-Card-Base {
+    margin: 6%;
+    position: relative;
+}
+
+.Second-Container-Card-Base-Inner-Image {
+    visibility: hidden;
+    position: relative;
+}
+
+.Second-Container-Card-Base-Inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.Second-Container p {
+    color: #A6ADB4;
+}

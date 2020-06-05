@@ -1,0 +1,96 @@
+@import "Nav.css";
+@import "Mobile-Nav.css";
+@import "First-Container.css";
+@import "Second-Container.css";
+@import "Third-Container.css";
+@import "Footer.css";
+@import "EasterEgg.css";
+
+body {
+    background: #F6F8F9;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.Nav-And-Footer-Size{
+    min-width: 375px;
+    max-width: 2600px;
+    margin: auto
+}
+
+.GrandWidth {
+    min-width: 375px;
+    max-width: 1920px;
+    margin: auto
+}
+
+.CropWidth {
+    max-width: 1620px;
+}
+
+.Padding-0 {
+    padding: 0;
+}
+
+.Padding-2 {
+    padding: 0 2%;
+}
+
+.Left-Arrow {
+    margin-right: 30px;
+}
+
+.Padding-0-4 {
+    padding: 0 4%;
+}
+
+.Headline {
+    margin: 2% auto;
+}
+
+.Clock-String {
+    color: #A6ADB4
+}
+
+.Mobile-Hr {
+    background: #EBEDED;
+    height: 2px;
+    width: 100%;
+    border-radius: 10px;
+    margin: 10% 0;
+}
+
+.Clock {
+    margin-right: 7px
+}
+
+
+@media  screen and (max-width: 993px){
+    .bigImage{display: none}
+}
+
+@media  screen and (min-width: 993px){
+ .bigImage{display: block}
+}
+
+
+@media  screen and (max-width: 993px){
+    .smallImage{display: block }
+}
+
+@media  screen and (min-width: 993px){
+    .smallImage{display: none}
+}
+
+@media  screen and (max-width: 403px){
+    .medImageBig{display: none}
+}
+
+@media  screen and (min-width: 403px){
+    .medImageBig{display: block}
+}
+@media  screen and (max-width: 403px){
+    .medImageSmall{display: block}
+}
+
+@media  screen and (min-width: 403px){
+    .medImageSmall{display: none}
+}

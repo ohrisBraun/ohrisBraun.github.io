@@ -1,0 +1,42 @@
+.Margin-8{
+    margin-top: 8%;
+}
+.Big-Slide-Page {
+    min-height: 300px
+}
+
+.Big-Slide-Card {
+    border: none;
+}
+
+.Big-Slide-Inner-Box {
+    padding: 4%;
+    min-height: 250px;
+}
+
+.Big-Slide-Inner-Box-Height {
+    height: 99%;
+}
+
+.Big-Slide-Headline {
+    color: white;
+    margin-bottom: 5%
+}
+
+.Big-Slide-First-Margin {
+    margin-bottom: 5%;
+}
+
+.Big-Slide-Text {
+    text-align: left;
+    color: white;
+}
+
+.Small-Slide-Margin {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+#Third-Container{
+    margin-bottom: 2%;
+}

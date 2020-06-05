@@ -1,0 +1,72 @@
+.First-Container-Left-Slide-Image {
+    min-height: 388px;
+}
+
+.Firs-Container h3 {
+    font-weight: bold;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.Margin-Auto{
+    margin: auto;
+}
+.Firs-Container h4 {
+    text-align: left;
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: bold;
+}
+
+.Firs-Container h5 {
+    color: #FA6980;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    font-weight: bold;
+    text-align: left;
+}
+
+.Firs-Container p {
+    color: #A6ADB4
+}
+
+.Firs-Container-Inner-Block {
+    max-width: 800px;
+}
+
+.Firs-Container-Image-Padding {
+    padding: 10%;
+}
+
+.Firs-Container-Divider {
+    height: 30px;
+}
+
+.Firs-Container-Right-Block {
+    padding: 4% 4%;
+}
+
+.Firs-Container-Inner-Block {
+    margin-top: 2%;
+    padding: 0%
+}
+
+.First-Container-Button {
+    background: #FA6980;
+    color: white;
+    margin-top: 20%;
+    font-size: 11px
+}
+
+.First-Container-Hr {
+    background: white;
+    height: 2px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.First-Container-Text {
+    text-align: left;
+    color: white
+}

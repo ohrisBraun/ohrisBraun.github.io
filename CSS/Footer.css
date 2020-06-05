@@ -1,0 +1,39 @@
+.Footer {
+    color: #CBD0D3;
+    padding: 1% 4%;
+    margin-top: 2%;
+    background: #a6adb4;
+}
+
+.Footer-Input {
+    max-width: 60%;
+    margin: auto;
+    border: #CBD0D3 solid 1px;
+    border-radius: 5px
+
+}
+.Footer-Logo{
+    color: white;
+}
+.Footer-Input input {
+    background: #A6ADB4;
+    border: 0;
+}
+.Input-Border{
+    border: 0;
+}
+.Footer-Icons {
+    padding: 0 2%;
+}
+.Footer-Inner{
+    margin: 2% auto;
+}
+
+.Input-Size {
+    max-width: 60%;
+    margin: auto;
+}
+
+input::-webkit-input-placeholder {
+    color: #CBD0D3 !important;
+}
